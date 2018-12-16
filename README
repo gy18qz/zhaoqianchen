@@ -1,5 +1,6 @@
 GEOG5990M
 Author: gy18qz (Zhao Qianchen)
-Download agentframework.py, model.py, and in.txt to a same path.
+agentframework.py and model.py are the source codes, download them with in.txt to a same path.
 Open agentframework.py and model.py in Spyder and run them.
 A dialogue box called "tk" will pop up, and click "Run model" in "Model" to run this model.
+An animation that agents eat, move, and share will appear.
